@@ -6,14 +6,18 @@
   "directories": {
     "lib": "lib"
   },
-  "scripts": {},
+  "scripts": {
+    "gulp": "gulp",
+    "build-dev": "export NODE_ENV=development && gulp",
+    "build-prod": "export NODE_ENV=production && gulp"
+  },
   "author": "Ryosuke Someya",
   "license": "MIT",
   "devDependencies": {
     "del": "^3.0.0",
     "eslint": "^4.19.1",
-    "gulp": "^3.9.1",
-    "gulp-sass": "^4.1.1",
+    "gulp": "^3.9.0",
+    "gulp-sass": "^4.0",
     "gulp-uglify": "^3.0.2",
     "require-dir": "^1.2.0"
   },
