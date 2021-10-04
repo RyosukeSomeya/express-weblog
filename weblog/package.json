@@ -7,6 +7,7 @@
     "lib": "lib"
   },
   "scripts": {
+    "start": "node ./app.js",
     "gulp": "gulp",
     "build-dev": "export NODE_ENV=development && gulp",
     "build-prod": "export NODE_ENV=production && gulp"
