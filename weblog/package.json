@@ -6,13 +6,21 @@
   "directories": {
     "lib": "lib"
   },
-  "scripts": {
-    "start": "node app.js",
-    "start:debug": "nodemon -L --inspect-brk=0.0.0.0:9119 src/app.js"
-  },
+  "scripts": {},
   "author": "Ryosuke Someya",
   "license": "MIT",
   "devDependencies": {
-    "eslint": "^4.19.1"
+    "del": "^3.0.0",
+    "eslint": "^4.19.1",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^4.1.1",
+    "gulp-uglify": "^3.0.2",
+    "require-dir": "^1.2.0"
+  },
+  "dependencies": {
+    "bootstrap": "^4.6.0",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.6.0",
+    "popper.js": "^1.16.1"
   }
 }
