@@ -1,0 +1,18 @@
+{
+  "name": "weblog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "start": "node app.js",
+    "start:debug": "nodemon -L --inspect-brk=0.0.0.0:9119 src/app.js"
+  },
+  "author": "Ryosuke Someya",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^4.19.1"
+  }
+}
