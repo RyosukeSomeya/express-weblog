@@ -1,0 +1,8 @@
+[2021-10-05T01:15:24.607] [ERROR] application - message2
+[2021-10-05T01:16:51.412] [ERROR] application - message2
+[2021-10-05T10:30:26.048] [ERROR] access - Cannot read property 'isLevelEnabled' of undefined
+[2021-10-05T10:30:28.880] [ERROR] access - Cannot read property 'isLevelEnabled' of undefined
+[2021-10-05T10:30:38.697] [ERROR] access - Cannot read property 'isLevelEnabled' of undefined
+[2021-10-05T10:30:50.428] [ERROR] access - ::1 - - "GET / HTTP/1.1" 500 1759 "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36"
+[2021-10-05T10:30:54.033] [ERROR] access - ::1 - - "GET / HTTP/1.1" 500 1759 "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36"
+[2021-10-05T01:31:28.507] [INFO] access - ::ffff:172.19.0.1 - - "GET / HTTP/1.1" 200 1353 "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36"

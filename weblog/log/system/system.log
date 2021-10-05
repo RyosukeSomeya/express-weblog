@@ -7,3 +7,15 @@
 [2021-10-04T17:54:08.496] [ERROR] system - sample2
 [2021-10-04T17:54:17.630] [ERROR] system - sample2
 [2021-10-04T17:54:19.654] [ERROR] system - sample2
+[2021-10-05T01:15:47.082] [ERROR] system - Cannot read property 'isLevelEnabled' of undefined
+[2021-10-05T01:16:56.002] [ERROR] system - Cannot read property 'isLevelEnabled' of undefined
+[2021-10-05T01:16:57.560] [ERROR] system - Cannot read property 'isLevelEnabled' of undefined
+[2021-10-05T01:16:58.101] [ERROR] system - Cannot read property 'isLevelEnabled' of undefined
+[2021-10-05T01:18:11.796] [ERROR] system - Cannot read property 'isLevelEnabled' of undefined
+[2021-10-05T01:18:14.076] [ERROR] system - Cannot read property 'isLevelEnabled' of undefined
+[2021-10-05T10:19:06.527] [ERROR] system - Cannot read property 'isLevelEnabled' of undefined
+[2021-10-05T10:20:31.142] [ERROR] system - Failed to lookup view "./index.ejs" in views directory "/Users/someyaryousuke/development/node_apps/express-weblog/views"
+[2021-10-05T01:24:30.135] [ERROR] system - Cannot read property 'isLevelEnabled' of undefined
+[2021-10-05T01:28:05.485] [ERROR] system - Cannot read property 'isLevelEnabled' of undefined
+[2021-10-05T10:30:50.418] [ERROR] system - Failed to lookup view "./index.ejs" in views directory "/Users/someyaryousuke/development/node_apps/express-weblog/views"
+[2021-10-05T10:30:54.032] [ERROR] system - Failed to lookup view "./index.ejs" in views directory "/Users/someyaryousuke/development/node_apps/express-weblog/views"
